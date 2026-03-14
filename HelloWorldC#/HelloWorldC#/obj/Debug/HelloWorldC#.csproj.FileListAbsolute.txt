@@ -1,0 +1,12 @@
+C:\C#\HelloWorldC#\HelloWorldC#\bin\Debug\HelloWorldC#.exe.config
+C:\C#\HelloWorldC#\HelloWorldC#\bin\Debug\HelloWorldC#.exe
+C:\C#\HelloWorldC#\HelloWorldC#\bin\Debug\HelloWorldC#.pdb
+C:\C#\HelloWorldC#\HelloWorldC#\obj\Debug\HelloWorldC#.csproj.AssemblyReference.cache
+C:\C#\HelloWorldC#\HelloWorldC#\obj\Debug\HelloWorldC_.Properties.Resources.resources
+C:\C#\HelloWorldC#\HelloWorldC#\obj\Debug\HelloWorldC#.csproj.GenerateResource.cache
+C:\C#\HelloWorldC#\HelloWorldC#\obj\Debug\HelloWorldC#.csproj.CoreCompileInputs.cache
+C:\C#\HelloWorldC#\HelloWorldC#\obj\Debug\HelloWorldC#.exe
+C:\C#\HelloWorldC#\HelloWorldC#\obj\Debug\HelloWorldC#.pdb
+C:\C#\HelloWorldC#\HelloWorldC#\obj\Debug\HelloWorldC_.WLCal.resources
+C:\C#\HelloWorldC#\HelloWorldC#\obj\Debug\HelloWorldC_.InformalCal.resources
+C:\C#\HelloWorldC#\HelloWorldC#\obj\Debug\HelloWorldC_.MainForm.resources

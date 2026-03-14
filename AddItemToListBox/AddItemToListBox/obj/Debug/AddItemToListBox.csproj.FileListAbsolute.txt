@@ -1,0 +1,10 @@
+C:\C#\AddItemToListBox\AddItemToListBox\bin\Debug\AddItemToListBox.exe.config
+C:\C#\AddItemToListBox\AddItemToListBox\bin\Debug\AddItemToListBox.exe
+C:\C#\AddItemToListBox\AddItemToListBox\bin\Debug\AddItemToListBox.pdb
+C:\C#\AddItemToListBox\AddItemToListBox\obj\Debug\AddItemToListBox.csproj.AssemblyReference.cache
+C:\C#\AddItemToListBox\AddItemToListBox\obj\Debug\AddItemToListBox.Form1.resources
+C:\C#\AddItemToListBox\AddItemToListBox\obj\Debug\AddItemToListBox.Properties.Resources.resources
+C:\C#\AddItemToListBox\AddItemToListBox\obj\Debug\AddItemToListBox.csproj.GenerateResource.cache
+C:\C#\AddItemToListBox\AddItemToListBox\obj\Debug\AddItemToListBox.csproj.CoreCompileInputs.cache
+C:\C#\AddItemToListBox\AddItemToListBox\obj\Debug\AddItemToListBox.exe
+C:\C#\AddItemToListBox\AddItemToListBox\obj\Debug\AddItemToListBox.pdb

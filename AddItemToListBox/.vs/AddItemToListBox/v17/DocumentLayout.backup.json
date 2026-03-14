@@ -1,0 +1,74 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\C#\\AddItemToListBox\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{00D65AC1-A33B-4A65-8720-2AB712621EC1}|ComboBox\\ComboBox.csproj|c:\\c#\\additemtolistbox\\combobox\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00D65AC1-A33B-4A65-8720-2AB712621EC1}|ComboBox\\ComboBox.csproj|solutionrelative:combobox\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00D65AC1-A33B-4A65-8720-2AB712621EC1}|ComboBox\\ComboBox.csproj|C:\\C#\\AddItemToListBox\\combobox\\combobox.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00D65AC1-A33B-4A65-8720-2AB712621EC1}|ComboBox\\ComboBox.csproj|solutionrelative:combobox\\combobox.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00D65AC1-A33B-4A65-8720-2AB712621EC1}|ComboBox\\ComboBox.csproj|C:\\C#\\AddItemToListBox\\combobox\\combobox.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{00D65AC1-A33B-4A65-8720-2AB712621EC1}|ComboBox\\ComboBox.csproj|solutionrelative:combobox\\combobox.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\C#\\AddItemToListBox\\ComboBox\\Program.cs",
+              "RelativeDocumentMoniker": "ComboBox\\Program.cs",
+              "ToolTip": "C:\\C#\\AddItemToListBox\\ComboBox\\Program.cs*",
+              "RelativeToolTip": "ComboBox\\Program.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-22T06:35:08.771Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ComboBox.cs",
+              "DocumentMoniker": "C:\\C#\\AddItemToListBox\\ComboBox\\ComboBox.cs",
+              "RelativeDocumentMoniker": "ComboBox\\ComboBox.cs",
+              "ToolTip": "C:\\C#\\AddItemToListBox\\ComboBox\\ComboBox.cs*",
+              "RelativeToolTip": "ComboBox\\ComboBox.cs*",
+              "ViewState": "AgIAABIAAAAAAAAAAAAUwCEAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-22T06:14:24.816Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ComboBox.cs [Design]",
+              "DocumentMoniker": "C:\\C#\\AddItemToListBox\\ComboBox\\ComboBox.cs",
+              "RelativeDocumentMoniker": "ComboBox\\ComboBox.cs",
+              "ToolTip": "C:\\C#\\AddItemToListBox\\ComboBox\\ComboBox.cs [Design]*",
+              "RelativeToolTip": "ComboBox\\ComboBox.cs [Design]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-22T06:13:43.419Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

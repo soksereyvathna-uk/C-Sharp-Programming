@@ -1,0 +1,10 @@
+C:\C#\Real_Calculate\Real_Calculate\bin\Debug\Real_Calculate.exe.config
+C:\C#\Real_Calculate\Real_Calculate\bin\Debug\Real_Calculate.exe
+C:\C#\Real_Calculate\Real_Calculate\bin\Debug\Real_Calculate.pdb
+C:\C#\Real_Calculate\Real_Calculate\obj\Debug\Real_Calculate.csproj.AssemblyReference.cache
+C:\C#\Real_Calculate\Real_Calculate\obj\Debug\Real_Calculate.Form1.resources
+C:\C#\Real_Calculate\Real_Calculate\obj\Debug\Real_Calculate.Properties.Resources.resources
+C:\C#\Real_Calculate\Real_Calculate\obj\Debug\Real_Calculate.csproj.GenerateResource.cache
+C:\C#\Real_Calculate\Real_Calculate\obj\Debug\Real_Calculate.csproj.CoreCompileInputs.cache
+C:\C#\Real_Calculate\Real_Calculate\obj\Debug\Real_Calculate.exe
+C:\C#\Real_Calculate\Real_Calculate\obj\Debug\Real_Calculate.pdb

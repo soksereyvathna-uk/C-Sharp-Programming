@@ -1,0 +1,10 @@
+C:\C#\Iphone Calculator\Iphone Calculator\bin\Debug\Iphone Calculator.exe.config
+C:\C#\Iphone Calculator\Iphone Calculator\bin\Debug\Iphone Calculator.exe
+C:\C#\Iphone Calculator\Iphone Calculator\bin\Debug\Iphone Calculator.pdb
+C:\C#\Iphone Calculator\Iphone Calculator\obj\Debug\Iphone Calculator.csproj.AssemblyReference.cache
+C:\C#\Iphone Calculator\Iphone Calculator\obj\Debug\Iphone_Calculator.Form1.resources
+C:\C#\Iphone Calculator\Iphone Calculator\obj\Debug\Iphone_Calculator.Properties.Resources.resources
+C:\C#\Iphone Calculator\Iphone Calculator\obj\Debug\Iphone Calculator.csproj.GenerateResource.cache
+C:\C#\Iphone Calculator\Iphone Calculator\obj\Debug\Iphone Calculator.csproj.CoreCompileInputs.cache
+C:\C#\Iphone Calculator\Iphone Calculator\obj\Debug\Iphone Calculator.exe
+C:\C#\Iphone Calculator\Iphone Calculator\obj\Debug\Iphone Calculator.pdb

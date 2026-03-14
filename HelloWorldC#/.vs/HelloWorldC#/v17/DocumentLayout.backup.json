@@ -1,0 +1,139 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\C#\\HelloWorldC#\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E3A37EF9-B9CD-4402-B4EA-723BD56ED4F7}|HelloWorldC#\\HelloWorldC#.csproj|c:\\c#\\helloworldc#\\helloworldc#\\informalcal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E3A37EF9-B9CD-4402-B4EA-723BD56ED4F7}|HelloWorldC#\\HelloWorldC#.csproj|solutionrelative:helloworldc#\\informalcal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3A37EF9-B9CD-4402-B4EA-723BD56ED4F7}|HelloWorldC#\\HelloWorldC#.csproj|C:\\C#\\HelloWorldC#\\helloworldc#\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E3A37EF9-B9CD-4402-B4EA-723BD56ED4F7}|HelloWorldC#\\HelloWorldC#.csproj|solutionrelative:helloworldc#\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3A37EF9-B9CD-4402-B4EA-723BD56ED4F7}|HelloWorldC#\\HelloWorldC#.csproj|C:\\C#\\HelloWorldC#\\helloworldc#\\wlcal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E3A37EF9-B9CD-4402-B4EA-723BD56ED4F7}|HelloWorldC#\\HelloWorldC#.csproj|solutionrelative:helloworldc#\\wlcal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3A37EF9-B9CD-4402-B4EA-723BD56ED4F7}|HelloWorldC#\\HelloWorldC#.csproj|C:\\C#\\HelloWorldC#\\helloworldc#\\wlcal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E3A37EF9-B9CD-4402-B4EA-723BD56ED4F7}|HelloWorldC#\\HelloWorldC#.csproj|solutionrelative:helloworldc#\\wlcal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3A37EF9-B9CD-4402-B4EA-723BD56ED4F7}|HelloWorldC#\\HelloWorldC#.csproj|C:\\C#\\HelloWorldC#\\helloworldc#\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E3A37EF9-B9CD-4402-B4EA-723BD56ED4F7}|HelloWorldC#\\HelloWorldC#.csproj|solutionrelative:helloworldc#\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3A37EF9-B9CD-4402-B4EA-723BD56ED4F7}|HelloWorldC#\\HelloWorldC#.csproj|C:\\C#\\HelloWorldC#\\helloworldc#\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E3A37EF9-B9CD-4402-B4EA-723BD56ED4F7}|HelloWorldC#\\HelloWorldC#.csproj|solutionrelative:helloworldc#\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3A37EF9-B9CD-4402-B4EA-723BD56ED4F7}|HelloWorldC#\\HelloWorldC#.csproj|C:\\C#\\HelloWorldC#\\helloworldc#\\informalcal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E3A37EF9-B9CD-4402-B4EA-723BD56ED4F7}|HelloWorldC#\\HelloWorldC#.csproj|solutionrelative:helloworldc#\\informalcal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "InformalCal.cs",
+              "DocumentMoniker": "C:\\C#\\HelloWorldC#\\HelloWorldC#\\InformalCal.cs",
+              "RelativeDocumentMoniker": "HelloWorldC#\\InformalCal.cs",
+              "ToolTip": "C:\\C#\\HelloWorldC#\\HelloWorldC#\\InformalCal.cs",
+              "RelativeToolTip": "HelloWorldC#\\InformalCal.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAABsAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-21T10:10:05.962Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "WLCal.cs",
+              "DocumentMoniker": "C:\\C#\\HelloWorldC#\\HelloWorldC#\\WLCal.cs",
+              "RelativeDocumentMoniker": "HelloWorldC#\\WLCal.cs",
+              "ToolTip": "C:\\C#\\HelloWorldC#\\HelloWorldC#\\WLCal.cs",
+              "RelativeToolTip": "HelloWorldC#\\WLCal.cs",
+              "ViewState": "AgIAACsAAAAAAAAAAAAAADMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-21T06:06:02.051Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "WLCal.cs [Design]",
+              "DocumentMoniker": "C:\\C#\\HelloWorldC#\\HelloWorldC#\\WLCal.cs",
+              "RelativeDocumentMoniker": "HelloWorldC#\\WLCal.cs",
+              "ToolTip": "C:\\C#\\HelloWorldC#\\HelloWorldC#\\WLCal.cs [Design]",
+              "RelativeToolTip": "HelloWorldC#\\WLCal.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-21T05:51:41.08Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\C#\\HelloWorldC#\\HelloWorldC#\\Program.cs",
+              "RelativeDocumentMoniker": "HelloWorldC#\\Program.cs",
+              "ToolTip": "C:\\C#\\HelloWorldC#\\HelloWorldC#\\Program.cs",
+              "RelativeToolTip": "HelloWorldC#\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-21T21:37:11.791Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MainForm.cs [Design]",
+              "DocumentMoniker": "C:\\C#\\HelloWorldC#\\HelloWorldC#\\MainForm.cs",
+              "RelativeDocumentMoniker": "HelloWorldC#\\MainForm.cs",
+              "ToolTip": "C:\\C#\\HelloWorldC#\\HelloWorldC#\\MainForm.cs [Design]",
+              "RelativeToolTip": "HelloWorldC#\\MainForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-21T21:37:04.124Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MainForm.cs",
+              "DocumentMoniker": "C:\\C#\\HelloWorldC#\\HelloWorldC#\\MainForm.cs",
+              "RelativeDocumentMoniker": "HelloWorldC#\\MainForm.cs",
+              "ToolTip": "C:\\C#\\HelloWorldC#\\HelloWorldC#\\MainForm.cs",
+              "RelativeToolTip": "HelloWorldC#\\MainForm.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAvwC4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-21T21:39:05.512Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "InformalCal.cs [Design]",
+              "DocumentMoniker": "C:\\C#\\HelloWorldC#\\HelloWorldC#\\InformalCal.cs",
+              "RelativeDocumentMoniker": "HelloWorldC#\\InformalCal.cs",
+              "ToolTip": "C:\\C#\\HelloWorldC#\\HelloWorldC#\\InformalCal.cs [Design]",
+              "RelativeToolTip": "HelloWorldC#\\InformalCal.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-21T10:01:29.453Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
